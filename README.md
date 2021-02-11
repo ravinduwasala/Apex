@@ -4,23 +4,38 @@
 ### Register Screen
 ![image info](./images/Screenshot_2020-12-29-21-43-50-84_20201229_214458099.jpg)
 ### Navigation with weater condition
-![image info](./images/111_Navigation_1.png)
-![image info](./images/111_Navigation_2.png)
-![image info](./images/111_Navigation_3.png)
-![image info](./images/111_Navigation_4.png)
-![image info](./images/111_Navigation_5.png)
+
+<p float="left">
+  <img src="./images/111_Navigation_1.png" width="100" />
+  <img src="./images/111_Navigation_2.png" width="100" />
+  <img src="./images/111_Navigation_3.png" width="100" />
+  <img src="./images/111_Navigation_4.png" width="100" />
+  <img src="./images/111_Navigation_5.png" width="100" />
+</p>
+
 ### Parking Assist
-![image info](./images/222_parking_1.png)
-![image info](./images/222_parking_2.png)
-![image info](./images/222_parking_3.png)
-![image info](./images/222_parking_4.png)
-![image info](./images/222_parking_5.png)
-![image info](./images/222_parking_6.png)
-![image info](./images/222_parking_7.png)
+<p float="left">
+  <img src="./images/222_parking_1.png" width="100" />
+  <img src="./images/222_parking_2.png" width="100" />
+  <img src="./images/222_parking_3.png" width="100" />
+  <img src="./images/222_parking_4.png" width="100" />
+  <img src="./images/222_parking_5.png" width="100" />
+  <img src="./images/222_parking_6.png" width="100" />
+  <img src="./images/222_parking_7.png" width="100" />
+</p>
+
 ### Dasboard
-![image info](./images/333_Dashboard_1.png)
-![image info](./images/333_Dashboard_2.png)
-![image info](./images/333_Dashboard_3.png)
+
+<p float="left">
+  <img src="./images/333_Dashboard_1.png" width="100" />
+  <img src="./images/333_Dashboard_2.png" width="100" />
+  <img src="./images/333_Dashboard_3.png" width="100" />
+  
+</p>
+
 ### Profile
-![image info](./images/444_profile_1.png)
-![image info](./images/444_profile_2.png)
+
+<p float="left">
+  <img src="./images/444_profile_1.png" width="100" />
+  <img src="./images/444_profile_2.png" width="100" />
+</p>
