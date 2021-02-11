@@ -1,8 +1,8 @@
 # Apex 
-### Login Screen
-![image info](./images/Screenshot_2020-12-29-21-43-41-70_20201229_214458311.jpg)
-### Register Screen
-![image info](./images/Screenshot_2020-12-29-21-43-50-84_20201229_214458099.jpg)
+### Login Screen and Register Screen 
+<img src="./images/Screenshot_2020-12-29-21-43-41-70_20201229_214458311.jpg" width="100" />
+<img src="./images/Screenshot_2020-12-29-21-43-50-84_20201229_214458099.jpg" width="100" />
+
 ### Navigation with weater condition
 
 <p float="left">
